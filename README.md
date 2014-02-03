@@ -1,2 +1,2 @@
-LAB-BOX
+LAB BOX
 =======
