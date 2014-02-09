@@ -1,3 +1,0 @@
-UAni
-----
-UPPERCASE Animation BOX
