@@ -6,6 +6,6 @@ BOOT({
 	},
 	SERVER_CONFIG : {
 		dbName : 'LAB-test',
-		isNotNeedDbAuth : true
+		isNotNeedDBAuth : true
 	}
 });
