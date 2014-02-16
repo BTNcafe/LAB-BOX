@@ -1,3 +1,0 @@
-UANI
-----
-UPPERCASE ANImation BOX
